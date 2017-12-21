@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2017/12/21/etc/git-push-%EA%B6%8C%ED%95%9C-%EC%98%A4%EB%A5%98/</loc>
+    
+    <lastmod>2017-12-21T02:17:41.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2017/12/20/django/django-2-0-%EC%B6%9C%EC%8B%9C/</loc>
     
-    <lastmod>2017-12-21T01:15:27.348Z</lastmod>
+    <lastmod>2017-12-21T01:26:41.243Z</lastmod>
     
   </url>
   
