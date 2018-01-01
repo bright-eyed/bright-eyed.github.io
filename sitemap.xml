@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2018/01/01/django/mysqlclient-%EC%84%A4%EC%B9%98-%EC%98%A4%EB%A5%98/</loc>
+    
+    <lastmod>2018-01-01T08:37:53.162Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2017/12/21/etc/git-push-%EA%B6%8C%ED%95%9C-%EC%98%A4%EB%A5%98/</loc>
     
     <lastmod>2017-12-21T02:17:41.000Z</lastmod>
